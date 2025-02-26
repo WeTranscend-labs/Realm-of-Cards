@@ -43,7 +43,7 @@ Welcome to **TCG Battle Adventure**, where strategy meets thrilling card-based c
 
 ----------
 
-## 🚀 1. Starting the Game
+### 🚀 1. Starting the Game
 
 -   **Health Points (HP):** You begin with **40 HP** – stay alive to win!
   
@@ -61,7 +61,7 @@ Welcome to **TCG Battle Adventure**, where strategy meets thrilling card-based c
 
 ### ⚔️ 2. Battle Mechanics
 
-### ⏳ 2.1 Turn & Stamina
+#### ⏳ 2.1 Turn & Stamina
 
 Master your stamina to outsmart your foes!
 
@@ -117,7 +117,7 @@ Every card is a tool of power!
 
 ----------
 
-## 🏁 4. Ending the Game
+### 🏁 4. Ending the Game
 
 -   **Victory:** Conquer **all stages** by defeating every monster – claim your glory!
   
