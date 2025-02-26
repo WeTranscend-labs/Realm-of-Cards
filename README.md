@@ -7,7 +7,7 @@
 
 **Realm of Cards** is a cutting-edge **turn-based card game** that fuses strategic depth with the power of **blockchain technology**. Assemble your deck from a diverse pool of cards and face off against fearsome monsters across dynamic stages. Whether you're a tactician or a collector, this game offers an immersive experience like no other.
 
-### 🎮 What Sets It Apart?
+### What Sets It Apart?
 
 -   **Core Gameplay:** Build your deck, outsmart opponents, and conquer challenges in a richly designed world.
   
