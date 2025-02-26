@@ -1,4 +1,5 @@
 
+
 # Realm of Cards - TCG Battle Adventure 🔗
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)  ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-orange) ![Platform](https://img.shields.io/badge/platform-Web3-blueviolet) ![Blockchain](https://img.shields.io/badge/blockchain-HappyChain-yellow)
     
@@ -82,7 +83,7 @@ Each card has stats for Damage - Health - Stamina cost and may have special effe
 ## 🌐 Launch
 The Realm of Cards platform is now live and ready for you to dive into an epic card battle adventure. Check it out here:
 
-Deployment Link: Realm of Cards
+Deployment Link: [Realm of Cards](a)
 
 Step into a world where strategy meets innovation. Unleash the power of blockchain technology and immerse yourself in the captivating realm of digital card battles. Are you ready to conquer the battlefield and forge your legacy? Begin your adventure now! 
 
