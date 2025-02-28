@@ -29,12 +29,12 @@ Explore the exciting features that make **Realm of Cards** a standout experience
 | Battle Mechanics | Engage in turn-based combat with deep damage, health, and stamina systems. | ✅ **Live**  |
 | Full On-Chain Cards | Cards fully stored and managed on-chain | ✅ **Live**  |
 | Full On-Chain Bosses | Bosses fully stored and managed on-chain | ✅ **Live** |
-| Custom Card Creation | Design and mint your own unique cards to showcase your creativity. | 🚀 **Coming Soon** |
-| Community Features | Join events, challenges, and connect with players worldwide. | 🚀 **Coming Soon** |
-| Secondary Marketplace | Trade or sell your collected cards in a vibrant player-driven economy. | 🚀 **Coming Soon** |
-| Seasonal Events | Test your skills in thrilling Player vs. Player battles with custom decks. | 🚀 **Coming Soon** |
+| Custom Card Creation | Design and mint your own unique cards to showcase your creativity. | 🔜 **Planned** |
+| Community Features | Join events, challenges, and connect with players worldwide. | 🔜 **Planned** |
+| Secondary Marketplace | Trade or sell your collected cards in a vibrant player-driven economy. | 🔜 **Planned** |
+| Seasonal Events | Test your skills in thrilling Player vs. Player battles with custom decks. | 🔜 **Planned** |
 | PvP Mode | Player vs Player battles with custom decks | 🚀 **Coming Soon** |
-| Achievement System | Earn badges and rewards as you track your progress and conquer milestones. | 🚀 **Coming Soon** |
+| Achievement System | Earn badges and rewards as you track your progress and conquer milestones. | 🔜 **Planned** |
 
 
 ## 🎮 Gameplay
