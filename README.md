@@ -69,13 +69,13 @@ Master your stamina to outsmart your foes!
   
 -   Use stamina to play cards for attacks or special effects.
   
-| Turn | Stamina |
-|------|------|
-| 1 | 2 ⚡ |
-| 2 | 3 ⚡ |
-| 3 | 4 ⚡ |
-| 4 | 5 ⚡ |
-| 5+ | 5 ⚡ (Max) |
+    | Turn | Stamina |
+    |------|------|
+    | 1 | 2 ⚡ |
+    | 2 | 3 ⚡ |
+    | 3 | 4 ⚡ |
+    | 4 | 5 ⚡ |
+    | 5+ | 5 ⚡ (Max) |
 
 #### 🐉 2.2 Monsters & Stats
 
