@@ -1,9 +1,6 @@
 [submodule "SC-Realm-of-Cards"]
 	path = SC-Realm-of-Cards
 	url = https://github.com/WeTranscend-labs/SC-Realm-of-Cards.git
-[submodule "Landing-Realm-of-Cards"]
-	path = Landing-Realm-of-Cards
-	url = https://github.com/WeTranscend-labs/Landing-Realm-of-Cards.git
 [submodule "FE-Realm-of-Cards"]
 	path = FE-Realm-of-Cards
 	url = https://github.com/WeTranscend-labs/FE-Realm-of-Cards.git
