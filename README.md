@@ -81,7 +81,7 @@ Master your stamina to outsmart your foes!
 
 Face off against menacing monsters!
 
--   Each stage pits you against **1 monster** with **40-60 HP**.
+-   Each stage pits you against **1 monster**.
   
 -   Watch out – they **strike back** every turn!
 
