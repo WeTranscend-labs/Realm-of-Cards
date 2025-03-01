@@ -69,13 +69,13 @@ Master your stamina to outsmart your foes!
   
 -   Use stamina to play cards for attacks or special effects.
   
-| Turn | Stamina |
-|------|------|
-| 1 | 2 ⚡ |
-| 2 | 3 ⚡ |
-| 3 | 4 ⚡ |
-| 4 | 5 ⚡ |
-| 5+ | 5 ⚡ (Max) |
+    | Turn | Stamina |
+    |------|------|
+    | 1 | 2 ⚡ |
+    | 2 | 3 ⚡ |
+    | 3 | 4 ⚡ |
+    | 4 | 5 ⚡ |
+    | 5+ | 5 ⚡ (Max) |
 
 #### 🐉 2.2 Monsters & Stats
 
@@ -134,11 +134,11 @@ Sharpen your strategy, harness your cards, and embark on an epic journey through
 
 ## 🌐 Launch
 
-The **Realm of Cards** platform is officially **live**! Step into an exhilarating world of card-based combat where strategy and innovation collide. Experience it now:
+The Realm of Cards platform is coming soon! Get ready to step into an exhilarating world of card-based combat where strategy and innovation collide. Prepare for an unforgettable experience:
 
-🔗 **Deployment Link:** [Realm of Cards](a) 
+🔗 Deployment Link: Stay tuned for the official launch!
 
-Prepare to harness the power of **blockchain technology** and dive into a mesmerizing universe of digital card battles. Will you rise as a legend and etch your name into the annals of the Realm? Your adventure awaits – **start now**!
+Harness the power of blockchain technology and dive into a mesmerizing universe of digital card battles. Will you rise as a legend and etch your name into the annals of the Realm? Your adventure is almost here – get ready to start soon!
 
 ----------
 
